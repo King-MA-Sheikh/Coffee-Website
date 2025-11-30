@@ -1,0 +1,32 @@
+=== REGISTRATION DEBUG START ===
+Time: 2025-11-20 19:17:57
+Method: GET
+ERROR: Exception: Invalid request method
+=== REGISTRATION DEBUG END - ERROR ===
+
+=== REGISTRATION DEBUG START ===
+Time: 2025-11-20 19:22:46
+Method: POST
+POST Data: Array
+(
+    [username] => admin
+    [email] => admin@coffee.com
+    [password] => admin@Coffee#9
+    [confirmPassword] => admin@Coffee#9
+    [terms] => on
+)
+
+Username: admin
+Email: admin@coffee.com
+Testing database connection...
+DB Config - Server: localhost, DB: coffee_management
+Database connected successfully!
+Table 'login' exists!
+Validation errors: Array
+(
+)
+
+Password hashed successfully
+User registered successfully!
+=== REGISTRATION DEBUG END - SUCCESS ===
+
