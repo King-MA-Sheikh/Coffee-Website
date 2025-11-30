@@ -1,4 +1,4 @@
-☕ Coffee Management System
+<h1 align="center">☕ Coffee Management System</h1>
 A comprehensive web-based application designed to streamline operations for coffee shops and cafes. This system provides an efficient platform for managing orders, inventory, and customer interactions through a user-friendly interface.
 
 https://img.shields.io/badge/PHP-8.0+-blue.svg
@@ -58,10 +58,11 @@ Modern web browser (Chrome, Firefox, Edge)
 Step-by-Step Setup
 Clone the Repository
 
-bash
+<code>
 git clone https://github.com/yourusername/coffee-management-system.git
 cd coffee-management-system
-Setup Database
+</code>
+  Setup Database
 
 Start Apache and MySQL in XAMPP/WAMP
 
@@ -168,16 +169,14 @@ Open a Pull Request
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 👨‍💻 Developer
-Ram Anuj Dubey
+Mohd Alkamah Sheikh
 BCA Student
 MSTTM College
 
 📞 Support
 For support or queries, please contact:
 
-📧 Email: ramanujdubey@example.com
-
-💼 LinkedIn: Ram Anuj Dubey
+📧 Email: alkamahsheikh900@gmail.com
 
 <div align="center">
 If you like this project, don't forget to give it a ⭐!
