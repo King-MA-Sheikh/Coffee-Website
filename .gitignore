@@ -1,0 +1,88 @@
+# ===========================
+# OS / System Files
+# ===========================
+Thumbs.db
+.DS_Store
+
+# ===========================
+# IDE / Editor Files
+# ===========================
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===========================
+# PHP / Server Logs & Cache
+# ===========================
+*.log
+logs/
+debug/
+debugs/
+debugs/debug_log.txt
+*.cache
+tmp/
+cache/
+
+# ===========================
+# Environment & Credentials
+# ===========================
+.env
+.env.*
+config.php
+database.php
+db.php
+db_config.php
+
+# ===========================
+# Database Files
+# ===========================
+*.sql
+*.sqlite
+*.db
+
+# NOTE: If you WANT to keep SQL files in repo,
+# comment the above three lines.
+
+# ===========================
+# XAMPP / Apache / Local Paths
+# ===========================
+*.bak
+*.backup
+sessions/
+xampp/
+htdocs/
+
+# ===========================
+# Node / Composer (future-proof)
+# ===========================
+node_modules/
+vendor/
+
+# ===========================
+# Uploads, Media, User Files
+# ===========================
+uploads/
+media/
+static/media/
+static/thumbnails/
+
+# If you want to keep your images on GitHub,
+# REMOVE this "media/" line.
+
+# ===========================
+# Sensitive Project Folders
+# ===========================
+authenticationExample/
+tests/
+database/
+
+# If you want to keep SQL structure files,
+# remove "database/" from ignore.
+
+# ===========================
+# Compiled or Packed Files
+# ===========================
+*.zip
+*.tar
+*.gz
